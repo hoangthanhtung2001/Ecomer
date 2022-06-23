@@ -1,0 +1,9 @@
+const ACTIONS = {
+    LOGIN:"LOGIN",
+    GET_TOKEN:"GET_TOKEN",
+    GET_USER :"GET_USER",
+    GET_ALL_USER:"GET_ALL_USERS",
+    GET_CART:"GET_CART"
+}
+
+export default ACTIONS
